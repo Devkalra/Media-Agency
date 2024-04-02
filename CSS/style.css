@@ -1,0 +1,38 @@
+@font-face {
+  font-family: "ppneuemontreal-thin", monospace;
+  src: url("D:\Other\Projects\Web Dev\HTML-Personal\Media-Agency\Fonts\ppneuemontreal-thin.otf");
+}
+
+.up-parragrah {
+  margin-top: 20px;
+  margin-left: 40px;
+  font-size: 50px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow";
+  color: #e67a32;
+}
+h1 {
+  width: 90%;
+  margin-top: 20px;
+  margin-left: 40px;
+  margin-bottom: 10px;
+  font-size: 200px;
+  color: #1b1b1a;
+  line-height: 1;
+}
+
+.special {
+  color: rgb(95, 94, 94);
+}
+
+.underline {
+  text-decoration: underline #e3325f;
+}
+
+p {
+  margin-bottom: 20px;
+  margin-left: 40px;
+  width: 50%;
+  font-size: 30px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow";
+  color: #363630;
+}
